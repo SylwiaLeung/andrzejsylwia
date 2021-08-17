@@ -13,3 +13,9 @@ public int add(int a, int b)
 {    
     return a + b;
 }
+public void shout()
+{
+
+    Console.WriteLine("Finish");
+
+}
