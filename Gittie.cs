@@ -1,6 +1,6 @@
 public void introduce()
 {
-    Console.WriteLine("Hello, I'm Gittie!");
+    Console.WriteLine("Hello, I'm Andrzej!");
     
 }
 public void joke()
@@ -10,6 +10,6 @@ public void joke()
 }
 
 public int add(int a, int b)
-{
+{    
     return a + b;
 }
