@@ -1,6 +1,6 @@
 public void introduce()
 {
-    Console.WriteLine("Hello, I'm Gittie!");
+    Console.WriteLine("Hello, I'm Sylwia!");
     
 }
 public void joke()
