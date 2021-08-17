@@ -18,4 +18,8 @@ public void shout()
 
     Console.WriteLine("Finish");
 
+
+public void shout()
+{
+    Console.WriteLine("Buuu!");
 }
